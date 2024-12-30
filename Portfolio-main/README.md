@@ -11,20 +11,10 @@
 
   <p align="center">
     Welcome to my portfolio website!
-    <br/>
-    <br/>
-    <a href="https://github.com/amansingh1221/Portfolio"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/amansingh1221/Portfolio">View Demo</a>
-    .
-    <a href="https://github.com/amansingh1221/Portfolio/issues">Report Bug</a>
-    .
-    <a href="https://github.com/amansingh1221/Portfolio/issues">Request Feature</a>
+   
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/amansingh1221/Portfolio/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/Portfolio?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/Portfolio?style=social) ![Stargazers](https://img.shields.io/github/stars/amansingh1221/Portfolio?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/Portfolio) ![License](https://img.shields.io/github/license/amansingh1221/Portfolio) 
 
 ## Table Of Contents
 
