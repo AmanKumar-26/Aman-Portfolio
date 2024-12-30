@@ -31,15 +31,13 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
-![Screen Shot](./assets/images/sample.png)
+
 
 This personal portfolio website is designed and developed using HTML5, CSS3, JavaScript, and jQuery. The website features a clean and modern design with a responsive layout that adapts to different screen sizes. The website showcases my skills, experience, and projects through various sections such as About, Skills, Projects, and Contact. The website includes interactive elements such as smooth scrolling, animated effects, and a hamburger menu for mobile devices. The website is also optimized for search engines and fast loading speed, providing a great user experience for visitors. Overall, this personal portfolio website reflects my creativity, professionalism, and technical abilities as a web developer.
 
@@ -57,7 +55,8 @@ Skills:
 HTML: Semantic markup for web pages
 CSS: Styling and layout of web pages
 JavaScript: Adding interactivity and dynamic features to web pages.
-jquery
+Data Structure and Algorithm 
+c++
 
 
 
@@ -73,16 +72,9 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 Use the below command to run the website on your local machine.
 ```node app.js```
 
-Here is the link to my Portfolio website: <a href="https://portfolio-amansingh.vercel.app/" target="_blank">**Visit Now** 🚀</a>
 
-## Roadmap
 
-See the [open issues](https://github.com/amansingh1221/Portfolio/issues) for a list of proposed features (and known issues).
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/amansingh1221/Portfolio/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Aman Singh** - *Computer Science and Engineering Student* - [Aman Singh](https://github.com/amansingh1221/) - *Personal Portfolio Website*
+* **Aman Kumar ** - *Electronic and Communication  Engineering Student* - [https://github.com/AmanKumar-26/Aman-Portfolio/tree/main) - *Personal Portfolio Website*
